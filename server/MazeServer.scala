@@ -3,7 +3,7 @@ import java.io._
 
 import maze._
 
-object MazeMain {
+object MazeServer {
 
     var m: Maze = _
     var playerX = 0
