@@ -27,4 +27,4 @@ It will connect to the localhost server on a port `9999`.
 * `w` -- up
 * `a` -- left
 * `s` -- down
-* `d`` -- right
+* `d` -- right
