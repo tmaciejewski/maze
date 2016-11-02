@@ -21,4 +21,10 @@ cd client
 ./MazeClient.py
 ```
 
-Controls are: `w a s d`
+It will connect to the localhost server on a port `9999`.
+
+### Controls
+* `w` -- up
+* `a` -- left
+* `s` -- down
+* `d`` -- right
