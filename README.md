@@ -21,4 +21,4 @@ cd client
 ./MazeClient.py
 ```
 
-Controls are: `w a s d`.
+Controls are: `w a s d`
